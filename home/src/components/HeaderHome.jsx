@@ -21,11 +21,11 @@ export default function HeaderHome() {
                         <span class="bar"></span>
                     </button>
                     <ul class="nav-menu" id="navMenu">
-                        <li><a href="#home" class="active"><span class="nav-number">01</span> INICIO</a></li>
-                        <li><a href="#about"><span class="nav-number">02</span> NOSOTROS</a></li>
-                        <li><a href="#services"><span class="nav-number">03</span> SERVICIOS</a></li>
-                        <li><a href="#projects"><span class="nav-number">04</span> PROYECTOS</a></li>
-                        <li><a href="#contact"><span class="nav-number">05</span> CONTACTO</a></li>
+                        <li><a href="#home" class="active"> INICIO</a></li>
+                        <li><a href="#about"> NOSOTROS</a></li>
+                        <li><a href="#services"> SERVICIOS</a></li>
+                        <li><a href="#projects"> PROYECTOS</a></li>
+                        <li><a href="#contact"> CONTACTO</a></li>
                     </ul>
                 </nav>
             </div>
